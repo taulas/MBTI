@@ -21,12 +21,12 @@ personalities to date.
 
 User stories:
 
-1.	The user must create account and later use the credentials to login.
-2.	The user must select preferred personalities for receiving suggested profiles.
-3.	The user must enter his MBTI personality.
-4.	The user must accept or decline the suggested profiles.
-5.	The user should do own personalized profile with pictures and descriptions.
-6.	The user should do MBTI personality test to get own personality type.
-7.	The user should check personality compatibility table which explains how user is compatible with other personalities.
-8.	The user could text other users who is matched to the user.
-9.	The user won’t send pictures to chat.
+1.	The user must create account and later use the credentials to login.  (Delivered)
+2.	The user must select preferred personalities for receiving suggested profiles. (Not delivered)
+3.	The user must enter his MBTI personality. (Not delivered)
+4.	The user must accept or decline the suggested profiles. (Not delivered)
+5.	The user should do own personalized profile with pictures and descriptions. (Partialy delivered)
+6.	The user should do MBTI personality test to get own personality type.  (Delivered)
+7.	The user should check personality compatibility table which explains how user is compatible with other personalities. (Not delivered)
+8.	The user could text other users who is matched to the user. (Not delivered)
+9.	The user won’t send pictures to chat.  (Not delivered)
